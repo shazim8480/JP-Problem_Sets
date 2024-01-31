@@ -129,4 +129,4 @@ console.log("task - 12 result", totalValue);
 const arrayIntersection = (arr1, arr2) =>
   arr1.filter((item) => arr2.includes(item));
 
-console.log("task - 13 result", arrayIntersection([1, 2, 3, 4], [3, 4, 5, 6])); // Output: [3, 4]
+console.log("task - 13 result", arrayIntersection([1, 2, 3, 4], [3, 4, 5, 6]));
